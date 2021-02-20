@@ -75,7 +75,7 @@ class Networking {
           return
         }
         
-        print("response.mimeType: \(response.mimeType)")
+        print("response.mimeType: \(String(describing: response.mimeType))")
 //        guard let mime = response.mimeType, mime == "application/json" else {
 //          print("Wrong MIME type! The data returned is not json.")
 //          completion(.failure(.invalidResponse))

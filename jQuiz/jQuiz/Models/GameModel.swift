@@ -42,7 +42,7 @@ class GameModel {
     }
     
     let articles = "https://raw.githubusercontent.com/raywenderlich/ios-interview/master/Practical%20Example/videos.json"
-    Networking.fetchData(for: URL(string: articles)) { [weak self]
+    Networking.fetchData(for: URL(string: articles)) { 
       (result: Result<TutorialCollection, NetworkError>) in
       
       switch result {
