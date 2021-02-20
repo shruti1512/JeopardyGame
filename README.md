@@ -1,8 +1,7 @@
 # Jeoprady Game
 [About](#about)<br/>
+[Features](#features)<br/>
 [Screenshots](#screenshots)<br/>
-[App Details](#app)<br/>
-</br>
 
 ## About
 <a name = "about" /> The app shows the past questions from the famous trivia game Jeopardy. In this game multiple questions and clues from different categories are displayed. If the users selects correct answer the score is updated accordingly. The game fetches data from jservice api.
@@ -12,10 +11,9 @@
 
 <img src="Screenshots/jQuiz.gif" width="200" height="400"> 
 
-## App Details
-<a name = "app" /> 
+## Features
+<a name = "features" />
 
-### Features
 - Provides visual and audio feedback of right and wrong answer.
 - Displays a running some of current score.
 - Background music can be toggled on or off.
@@ -55,7 +53,7 @@
   - Delegation
   - Singleton
 
-### Future Enhancements
+## Future Enhancements
 
  - Add animations for high scores
  - Save past scores
