@@ -2,6 +2,8 @@
 [About](#about)<br/>
 [Features](#features)<br/>
 [Screenshots](#screenshots)<br/>
+[Technologies](#tech)<br/>
+[Future Enhancements](#future)<br/>
 
 ## About
 <a name = "about" /> The app shows the past questions from the famous trivia game Jeopardy. In this game multiple questions and clues from different categories are displayed. If the users selects correct answer the score is updated accordingly. The game fetches data from jservice api.
@@ -54,6 +56,7 @@
   - Singleton
 
 ## Future Enhancements
+<a name = "future" /> 
 
  - Add animations for high scores
  - Save past scores
