@@ -50,6 +50,7 @@
   - Regular Expression
   - Result Type
   - URLComponents
+  - Codable
 
 - ### Design Patterns ###
 
