@@ -1,4 +1,4 @@
-# Jeoprady Game
+# Jeopardy Game
 [About](#about)<br/>
 [Features](#features)<br/>
 [Screenshots](#screenshots)<br/>
